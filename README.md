@@ -1,2 +1,2 @@
-Simple Cat Photo App!
-<a href="https://ahmedemad-1.github.io/Cat-Photos-App/Main.html"> Visit the live site now!</a>
+Simple Cat Photo App! <br>
+<a href="https://ahmedemad-1.github.io/Cat-Photos-App/Main.html" target="_blank"> Visit the live site now!</a>
